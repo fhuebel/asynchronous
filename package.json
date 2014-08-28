@@ -1,0 +1,19 @@
+{
+  "name": "asynchronous",
+  "version": "0.0.1",
+  "description": "Sequencing asynchronous logic",
+  "main": "callback_example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fhuebel/asynchronous"
+  },
+  "author": "Frank Huebel",
+  "license": "0.0.1",
+  "bugs": {
+    "url": "https://github.com/fhuebel/asynchronous/issues"
+  },
+  "homepage": "https://github.com/fhuebel/asynchronous"
+}
